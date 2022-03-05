@@ -36,4 +36,4 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 
 
->> The file Dataset characteristics.txt contains the description of all the variables to be used in building the model.
+> The file Dataset characteristics.txt contains the description of all the variables to be used in building the model.
