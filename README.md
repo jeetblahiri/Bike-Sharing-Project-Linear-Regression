@@ -34,3 +34,6 @@ You might notice the column 'yr' with two values 0 and 1 indicating the years 20
 
 In the dataset provided, you will notice that there are three columns named 'casual', 'registered', and 'cnt'. The variable 'casual' indicates the number casual users who have made a rental. The variable 'registered' on the other hand shows the total number of registered users who have made a booking on a given day. Finally, the 'cnt' variable indicates the total number of bike rentals, including both casual and registered. The model should be built taking this 'cnt' as the target variable.
 
+
+
+>> The file Dataset characteristics.txt contains the description of all the variables to be used in building the model.
